@@ -1,0 +1,21 @@
+{
+  "id": "latinomegahd",
+  "name": "LatinoMegaHD",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "entry": "plugin.js",
+  "description": "Películas y series en español latino",
+  "hosts": [
+    "www.latinomegahd.net",
+    "portadas.latinomegahd.net",
+    "go.aftvnews.com",
+    "delivery-lmvip.b-cdn.net"
+  ],
+  "capabilities": [
+    "search",
+    "home",
+    "browse",
+    "episodes",
+    "resolve"
+  ]
+}
